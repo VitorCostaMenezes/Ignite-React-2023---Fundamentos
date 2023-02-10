@@ -1,0 +1,5 @@
+npm i 
+para inicar o projeto
+
+npm run dev
+roda a aplicação
